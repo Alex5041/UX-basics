@@ -30,9 +30,3 @@ a bunch of controls. (*all components of an interactive system, software or hard
 is design for human use. It is dangerous to view it as a UI, because it's more than that. We should consider what a person is thinking, doing and feeling while interacting with an app.
 
 Goal is: to make given functionality accessible  in an esthetically pleasing way. We imagine an ideal interaction and design UI with accordance with this ideal interaction.
-
-[[2 Context of use]]
-[[3 Goal directed design process]]
-[[4 Design informing models]]
-[[5 Usability problems and metrics]]
-[[6 Creative and computational approach to UX]]
