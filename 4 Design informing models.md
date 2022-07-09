@@ -10,7 +10,7 @@ There are many types of such models each of which can be used for different purp
 
 ### Personas
 Persona - a composite user archetype that represents distinct group of behaviors, attitudes, motives and goals based on user research.
-![[Pasted image 20220129162215.png|300x200]]
+![Pasted image 20220129162215](https://user-images.githubusercontent.com/62846387/178118837-30a48169-3771-4da3-87af-7dd9beb59241.png)
 
 ### BPMNs
 Business process model — how business works. *For example, how an order is carried in McDonalds, what are the steps, who is involved.*
@@ -22,5 +22,4 @@ For "What level". Similar to the BPMN that describes the activities, however con
 
 ### HTA
 Hierarchical task analysis. In case below, describes how we want people to act.
-![[Pasted image 20220129163207.png|300x200]]
-
+![Pasted image 20220129163207](https://user-images.githubusercontent.com/62846387/178118869-2ce6ae09-594f-4e9f-b1bd-39564a7e04b5.png)
